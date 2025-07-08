@@ -1,6 +1,6 @@
 import React from "react"
 
-import Vector from '../assets/Vector.png'
+import Vector from '../../public/Vector.png'
 
 const Navbar = () => {
   return (
